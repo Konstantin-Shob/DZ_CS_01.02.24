@@ -1,0 +1,7 @@
+01.02.2023
+
+1) Скрытие методов класса 
+2) Запечатывание классов (sealed)	
+3) virtual override base
+4) abstract class
+5) ToString
